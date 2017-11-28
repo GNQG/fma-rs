@@ -1,0 +1,10 @@
+[package]
+name = "fma"
+version = "0.1.0"
+authors = ["GNQG"]
+readme = "README.md"
+license = "MIT"
+description = "Tiny crate to use FMA(Fused Multiply-Add) instruction easily."
+repository = "https://github.com/GNQG/fma-rs"
+keywords = ["float", "fma", "intrinsics"]
+categories = ["algorithms"]
